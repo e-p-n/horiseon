@@ -8,8 +8,9 @@ Proofed index.html code and made the following revisions:
 - Added comment tags to more easily identify the different aspects of the page
 - Added 'id="search-engine-optimization"'to div so that the 'Search Engine Optimization' link would work
 - Fixed an improperly written img tag by removing the closing tag and add ' /' inside the original tag
-- Changed h3 tags to h2 tags as accessibilty standards state that h3 tags should only be used when the heading is a subheading of the 
+- Changed h3 tags to h2 tags as accessibilty standards state that h3 tags should only be used when the heading is a subheading of an h2 tag
 - Changed div tags to header, section and footer tags where appropriate
+- Added empty alt tags to all img tags, as the content of the images was decorative.
 
 Proofed style.css page and made the following revisions:
 - Updated css to include refernce to header section and footer tags. 
